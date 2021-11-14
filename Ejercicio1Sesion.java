@@ -17,7 +17,7 @@ public class Ejercicio1Sesion {
         String micadenatexto = " Texto de mi variable";
 
         System.out.println("Los números enteros son: "+ nbyte + " " + nshort + " " + ninnt + " " + nlong);
-        System.out.println("Los número decimales son: " + nfloat + " " + ndouble);
+        System.out.println("Los números decimales son: " + nfloat + " " + ndouble);
         System.out.println("Los booleans son: " + nbooleant + " " + nbooleanf);
         System.out.println("Los textos son: " + letra + micadenatexto);
 
